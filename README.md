@@ -10,6 +10,7 @@ architecture note, 3x4x5). This branch:
 |---|---|---|
 | Webpack (`@angular-devkit/build-angular:browser`, the legacy builder) | npm | Microservices |
 
+
 All seven locked technologies are genuinely wired and exercised:
 Angular 20, Node.js 22, MongoDB 8, Elasticsearch 8, SNS (via LocalStack),
 gRPC (`@grpc/grpc-js` + `@grpc/proto-loader`), SES (via LocalStack).
